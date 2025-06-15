@@ -170,4 +170,4 @@ curl -X POST https://tu-mcp-server.railway.app/mcp/execute \
 - Usa endpoints HTTP para comunicación
 - Accesible desde cualquier lugar
 
-¡Ambos modos consumen la misma API de TinyTasks! 
+¡Ambos modos consumen la misma API de TinyTasks! # Updated Sun Jun 15 20:54:37 -03 2025
