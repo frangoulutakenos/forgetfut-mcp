@@ -1,0 +1,23 @@
+{
+  "name": "mcp-tinytasks-server",
+  "version": "1.0.0",
+  "description": "MCP Server for TinyTasks API - Deployable version",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "build": "echo 'No build needed for JS'"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "express": "^4.18.0",
+    "cors": "^2.8.5"
+  },
+  "keywords": ["mcp", "tinytasks", "api", "claude"],
+  "author": "Francisco Goulu",
+  "license": "MIT"
+}
